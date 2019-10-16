@@ -1,0 +1,8 @@
+Package: com.rocco.makemesafe
+Name: MakeMeSafe
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Gabriel Rocco
+Author: Gabriel Rocco
+Section: Utilities
