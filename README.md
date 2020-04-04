@@ -7,4 +7,5 @@ Remove o desfoque das fotos de perfis que já curtiram você sem a necessidade d
 Permite acessar o modo de segurança do IOS para quando existem problemas/mau funcionamento.
 
 
-<img src="https://github.com/gabrielrocco/tweaks-dev-ios12.4/blob/master/Captura%20de%20ecr%C3%A3%202020-03-21.png" alt="alt text" width="1000" height="120">
+![Captura de ecrã 2020-04-04, às 20 23 44](https://user-images.githubusercontent.com/56345369/78459640-51fcce00-76b2-11ea-988e-c9c74b70a5fe.png)
+
